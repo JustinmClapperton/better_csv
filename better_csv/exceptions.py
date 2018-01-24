@@ -1,0 +1,4 @@
+
+
+class RowDoesNotExistException(Exception):
+    pass
